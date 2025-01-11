@@ -2,7 +2,7 @@
 This is a project that implements the linked list data structure in JavaScript as part of the Odin Project's Curriculum
 
 ## Details
-This a normal linked list that implements a multitude of functions as follows: 
+This is a normal linked list that implements a multitude of functions as follows: 
 
 * append(value): Appends a new node to the tail of the list with value passed as its data attribute.
 * prepend(value): Adds a new node to the head of the list with value passed as its data attribute.
